@@ -1,5 +1,5 @@
 # Retail-Sales-Data-Analysis-using-SQL
-Project Overview
+Project Overview :
 
 This project uses SQL to analyze retail sales data. It stores customer, product, and order information and runs queries to generate business insights.
 
